@@ -21,6 +21,7 @@ saveRDS(su,"test_data/Seurat_Naive_Tcells_counts.rds")
 | name           | data                                                                                         | assay | metadata           | control |
 | -------------- | -------------------------------------------------------------------------------------------- | ----- | ------------------ | ------- |
 | Rohit_test_run | /home/subudhak/data/coursework2024/week4/dea_seurat/test_data/Seurat_Naive_Tcells_counts.rds | RNA   | cytokine.condition | ALL     |
+
 and the changes made in config files were as follows:
 
 ```
