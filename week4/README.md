@@ -93,4 +93,4 @@ rohit_test_result/
 ```
 And the qcplots.R will produce the image given below:
 
-[]!(DEA_qcplot.png)
+![](DEA_qcplot.png)
