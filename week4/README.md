@@ -91,3 +91,6 @@ rohit_test_result/
 
 8 directories, 28 files
 ```
+And the qcplots.R will produce the image given below:
+
+[]!(DEA_qcplot.png)
