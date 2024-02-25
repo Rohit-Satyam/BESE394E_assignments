@@ -46,4 +46,48 @@ and will inform Snakemake to load the rules using
 include: os.path.join("rules", "qcplots.smk")
 ```
 
-Once this is done, we can rerun our workflow using `snakemake --cores 10`
+Once this is done, we can rerun our workflow using `snakemake --cores 10`.
+
+The output directory will look like:
+
+```bash
+rohit_test_result/
+├── configs
+│   └── dea_seurat
+│       ├── MyData_annot.csv
+│       └── MyData_config.yaml
+├── dea_seurat
+│   └── Rohit_test_run
+│       ├── DEA_ALL_stats.csv
+│       ├── DEA_FILTERED_LFC.csv
+│       ├── DEA_FILTERED_stats.csv
+│       ├── DEA_results.csv
+│       ├── feature_lists
+│       │   ├── ALL_features.txt
+│       │   ├── iTreg_down_features.txt
+│       │   ├── iTreg_featureScores.csv
+│       │   ├── iTreg_up_features.txt
+│       │   ├── Th0_down_features.txt
+│       │   ├── Th0_featureScores.csv
+│       │   ├── Th0_up_features.txt
+│       │   ├── Th17_down_features.txt
+│       │   ├── Th17_featureScores.csv
+│       │   ├── Th17_up_features.txt
+│       │   ├── Th2_down_features.txt
+│       │   ├── Th2_featureScores.csv
+│       │   └── Th2_up_features.txt
+│       └── plots
+│           ├── DEA_ALL_stats.png
+│           ├── DEA_FILTERED_stats.png
+│           ├── DEA_LFC_heatmap.png
+│           ├── DEA_qcplot.png
+│           └── DEA_volcanos.png
+└── envs
+    └── dea_seurat
+        ├── ggplot.yaml
+        ├── heatmap.yaml
+        ├── seurat.yaml
+        └── volcanos.yaml
+
+8 directories, 28 files
+```
