@@ -117,4 +117,3 @@ git add .
 git commit -m "added rules to make qc plots"
 git push -u origin Rohit-Satyam
 ```
-2. 
