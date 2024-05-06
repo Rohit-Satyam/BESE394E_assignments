@@ -1,5 +1,7 @@
 
 
+## Alignment Summary from [RNAgrinder](https://github.com/Rohit-Satyam/RNAgrinder) pipeline
+
 
 
 |   | Samples     | Total Reads | Survied post Trimming | Read loss(%)     | rRNA   | rRNA (%)          | non-rRNA reads | non-rRNA (%)     | Total Mapped(%)  | Unique Mapped Reads | Unique Mapped Rate | No. of Genes Detected | rRNA Rate (Post Alignment) | Duplicate (%) | Duplicate Reads |
