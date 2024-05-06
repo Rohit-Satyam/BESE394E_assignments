@@ -2,8 +2,6 @@
 
 
 
- Outer pipes  Cell padding 
-No sorting
 |   | Samples     | Total Reads | Survied post Trimming | Read loss(%)     | rRNA   | rRNA (%)          | non-rRNA reads | non-rRNA (%)     | Total Mapped(%)  | Unique Mapped Reads | Unique Mapped Rate | No. of Genes Detected | rRNA Rate (Post Alignment) | Duplicate (%) | Duplicate Reads |
 | - | ----------- | ----------- | --------------------- | ---------------- | ------ | ----------------- | -------------- | ---------------- | ---------------- | ------------------- | ------------------ | --------------------- | -------------------------- | ------------- | --------------- |
 | 1 | SRR26055764 | 55797656    | 50884231              | 8.80579105330159 | 937009 | 1.67929814112622  | 49947222       | 89.5149108055722 | 99.3422477029854 | 46460435            | 93.02              | 21579                 | 0.54655                    | 24.8931       | 12416943        |
