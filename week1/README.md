@@ -1,7 +1,7 @@
 ## Week1 Assignment
 
 - Compare “Results from JCI Insight” vs “Results derived from your own analysis”
-- Identify a data-set related to Monocytes in bulk RNA-seq and run the complete pipeline. Generate a report.
+- Identify a data-set related to Monocytes in bulk RNA-seq and run the complete pipeline. Generate a report. (See Week2 directory)
 - Prepare an organized pipeline for RNA-seq.
 	- Power point explaining the pipeline.
 	- Example with R.
