@@ -3,6 +3,10 @@
 
 Clone the [dea_seurat](https://github.com/roblehmann/dea_seurat) repository and add rules to make QC plots by revising the snakemake code.
 
+## See Pull request:
+Pull Request: [Here](https://github.com/roblehmann/dea_seurat/pull/2)
+Branch: https://github.com/Rohit-Satyam/dea_seurat/tree/group1-snakemake
+
 ### Steps followed
 
  1. Create Seurat object using the data provided in the `test_data` folder using the following code
