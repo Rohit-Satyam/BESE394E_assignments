@@ -1,4 +1,4 @@
-# BESE394E_assignments
+# BESE394E assignments
 This repository contains assignment submissions for coursework.
 
 ## Summary
